@@ -1,2 +1,4 @@
 # my-memo
-A Memo App
+A Memo webapp, created using react library.
+
+Visit here:- https://rmopl.csb.app/
